@@ -1,0 +1,10 @@
+.list {
+  width: 38%;
+}
+.denom-value {
+  color: #c4c4c4;
+  background-color: #585076;
+  margin: 5px;
+  border-width: 1px;
+  border-color: #ffffff;
+}

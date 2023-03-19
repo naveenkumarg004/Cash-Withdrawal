@@ -1,0 +1,42 @@
+.bg {
+  width: 100vw;
+  background-size: cover;
+}
+.blue-page {
+  width: 80%;
+}
+.profile-cont {
+  display: flex;
+  align-items: center;
+}
+.name {
+  color: #d4d2db;
+}
+.bal-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ur-bal {
+  color: #c7d2fe;
+}
+.money-rupee {
+  display: flex;
+  flex-direction: column;
+}
+.money {
+  color: #d4d2db;
+}
+.in-rupees {
+  color: #585076;
+}
+.wd-head {
+  color: #c4c4c4;
+}
+.cs-para {
+  color: #585076;
+}
+.denom-cont {
+  flex-wrap: wrap;
+}
