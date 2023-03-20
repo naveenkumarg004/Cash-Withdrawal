@@ -1,9 +1,19 @@
 .bg {
   width: 100vw;
   background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
 }
 .blue-page {
-  width: 80%;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: ;
+  background-color: #150b3e;
+  border-radius: 10px;
+  padding: 10px;
 }
 .profile-cont {
   display: flex;
@@ -39,4 +49,13 @@
 }
 .denom-cont {
   flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+
+  list-style-type: none;
+}
+
+.image {
+  width: 60px;
+  border-radius: 50%;
 }
